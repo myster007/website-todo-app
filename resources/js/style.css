@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Yanramanav:100");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400");
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+.intro {
+    height: 100;
+    width: 100%;
+    margin: auto;
+    background: url(https://www.w3newbie.com/wp-content/uploads/pexels-photo-292600.jpg);
+}
+
+@media screen and (max-width: 900px) {
+}
+@media screen and (max-width: 768px) {
+}
+@media screen and (max-width: 480px) {
+}
